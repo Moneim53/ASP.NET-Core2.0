@@ -1,0 +1,16 @@
+C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=PartyInvites
+--content-root=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\About.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\Contact.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\Index.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\ListResponses.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\MyView.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\RsvpForm.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Home\Thanks.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Shared\Error.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Shared\_Layout.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\_ViewImports.cshtml
+--file=C:\Users\Mon3em\source\repos\PartyInvites\PartyInvites\Views\_ViewStart.cshtml
